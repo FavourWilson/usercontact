@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from '../component/Header'
-import GetUserContract from '../component/getUserContract'
+import GetUserContract from '../component/GetUserContract'
 import { Link } from 'react-router-dom'
 
 const UserList = () => {
